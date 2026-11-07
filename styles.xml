@@ -1,0 +1,11 @@
+<resources>
+    <style name="Theme.IRISLens" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#D8B66A</item>
+        <item name="colorPrimaryVariant">#9D7C3F</item>
+        <item name="colorOnPrimary">#101114</item>
+        <item name="android:statusBarColor">#090A0D</item>
+        <item name="android:navigationBarColor">#090A0D</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:fontFamily">sans</item>
+    </style>
+</resources>
